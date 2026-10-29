@@ -6,13 +6,13 @@ Este repositório reúne implementações fundamentais de estruturas de dados e 
 
 ## 📁 Estrutura de Arquivos Sugerida
 
-```text
-.
+```
 ├── README.md
-├── grafo_nao-orientado.py          # Representações (Matriz e Lista) sem direção
-├── grafo_orientado.py              # Grafo direcionado com Menu, DFS e BFS
-├── dijkstra_nao_orientado.py       # Menor caminho em grafo não direcionado com pesos
-└── dijkstra_orientado.py           # Menor caminho com fila de prioridade e validações
+├── menu_grafos.py              # Grafo orientado com menu interactivo
+├── grafo_nao-orientado.py      # Representações (Matriz e Lista) sem direção
+├── grafo_orientado.py          # Grafo direcionado com Menu, DFS e BFS
+├── dijkstra_nao_orientado.py   # Menor caminho em grafo não direcionado com pesos
+└── dijkstra_orientado.py       # Menor caminho com fila de prioridade e validações
 ```
 
 ### Pré-requisitos
